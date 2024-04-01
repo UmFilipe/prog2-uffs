@@ -3,13 +3,18 @@
     padding: 0px;
 }
 
+.dark-theme {
+    background-color: #333;
+    color: #fff;
+}
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0; /* Tema claro padrão */
+    background-color: #f0f0f0; 
 }
 
 header {
-    background-color: #28693F; /* Cor da UFFS */
+    background-color: #28693F;
     color: white;
     padding: 20px;
     text-align: center;
@@ -25,33 +30,42 @@ h1 {
     margin: 10px 0;
 }   
 
-#toggle-theme {
+#alterarTema {
+    position: absolute;
+    top: 20px;
+    right: 20px;
     margin: 20px;
     padding: 10px;
     border: none;
-    background-color: #28693F; /* Cor da UFFS */
+    background-color: #28693F;
     color: white;
     cursor: pointer;
 }
 
-#toggle-theme:hover {
-    background-color: #003366; /* Cor mais escura */
+#alterarTema:hover {
+    background-color: #1b532f;
 }
 
-#courses {
+#selecionar-curso {
+    margin: 20px; 
+}
+
+#dropdown-cursos {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+}
+
+#dropdown-cursos:focus {
+    outline: none;
+    border-color: #28693F; 
+    box-shadow: 0 0 5px rgba(40, 105, 63, 0.5);
+}
+
+#cursos {
     padding: 20px;
-}
-
-h2 {
-    font-size: 24px;
-}
-
-h3 {
-    font-size: 18px;
-    font-weight: normal;
-    margin-top: 10px;
-}
-
-p {
-    margin-top: 5px;
+    margin: 0 auto; 
+    text-align: center; 
 }
