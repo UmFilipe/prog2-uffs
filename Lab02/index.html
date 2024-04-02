@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Horários de Cursos - UFFS</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
@@ -12,11 +15,8 @@
         alt="Logo UFFS">
         <h1>Universidade Federal da Fronteira Sul</h1>
     </header>
-
     <button id="alterarTema">Alterar Tema</button>
-    
     <div id="selecionar-curso">
-        <label for="dropdown-cursos">Selecione um curso:</label>
         <select id="dropdown-cursos" onchange="cursoSelecionado()">
             <option value="" disabled selected>Selecione um curso</option>
         </select>
@@ -26,8 +26,6 @@
         <div id="info-curso">
         </div>
     </div>
-    
-
     <script src="script.js"></script>
 </body>
 </html>
