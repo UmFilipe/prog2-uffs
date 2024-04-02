@@ -6,7 +6,7 @@
         "coordenacao": "Coordenador 1",
         "horarios": {
             "Segunda": "Administração Financeira I",
-            "Terca": "Análise Estatística",
+            "Terça": "Análise Estatística",
             "Quarta": "Administração de Custos",
             "Quinta": "Matemática Financeira",
             "Sexta": "Pesquisa de Marketing"
@@ -19,7 +19,7 @@
         "coordenacao": "Coordenador 2",
         "horarios": {
             "Segunda": "Irrigação e Drenagem",
-            "Terca": "Processamento de Produtos de Origem Animal e Vegetal",
+            "Terça": "Processamento de Produtos de Origem Animal e Vegetal",
             "Quarta": "Sistemas Agroflorestais",
             "Quinta": "Pós-Colheita",
             "Sexta": "Sementes"
@@ -32,7 +32,7 @@
         "coordenacao": "Coordenador 4",
         "horarios": {
             "Segunda": "Engenharia de Software I",
-            "Terca": "Programação II",
+            "Terça": "Programação II",
             "Quarta": "Organização de Computadores",
             "Quinta": "Banco de Dados I",
             "Sexta": "Geometria Analítica"
@@ -45,7 +45,7 @@
         "coordenacao": "Coordenador 5",
         "horarios": {
             "Segunda": "Ciência Política I",
-            "Terca": "Iniciação à Prática Científica",
+            "Terça": "Iniciação à Prática Científica",
             "Quarta": "Introdução à Filosofia",
             "Quinta": "Antropologia I",
             "Sexta": "Introdução ao pensamento social"
@@ -58,7 +58,7 @@
         "coordenacao": "Coordenador 6",
         "horarios": {
             "Segunda": "Anatomia I",
-            "Terca": "Fisiologia I",
+            "Terça": "Fisiologia I",
             "Quarta": "Parasitologia",
             "Quinta": "Psicologia Aplicada à Enfermagem",
             "Sexta": "Farmacologia Aplicada à Enfermagem"
@@ -71,7 +71,7 @@
         "coordenacao": "Coordenador 7",
         "horarios": {
             "Segunda": "Bioquímica",
-            "Terca": "Física II",
+            "Terça": "Física II",
             "Quarta": "Ciência e Tecnologia dos Materiais",
             "Quinta": "Cálculo II",
             "Sexta": "Topografia"
@@ -84,7 +84,7 @@
         "coordenacao": "Coordenador 8",
         "horarios": {
             "Segunda": "Metafísica",
-            "Terca": "Filosofia Moderna",
+            "Terça": "Filosofia Moderna",
             "Quarta": " Iniciação à Prática Científica",
             "Quinta": "Direitos e Cidadania",
             "Sexta": "Língua Brasileira de Sinais - Libras"
@@ -97,7 +97,7 @@
         "coordenacao": "Coordenador 9",
         "horarios": {
             "Segunda": "História do Pensamento Geográfico",
-            "Terca": "Geografia da População",
+            "Terça": "Geografia da População",
             "Quarta": "Geografia Política",
             "Quinta": "Organização do Espaço Mundial",
             "Sexta": "Didática Geral"
@@ -110,7 +110,7 @@
         "coordenacao": "Coordenador 10",
         "horarios": {
             "Segunda": "História da Fronteira Sul",
-            "Terca": "Fundamentos da Educação",
+            "Terça": "Fundamentos da Educação",
             "Quarta": "História do Brasil I",
             "Quinta": "História da América II",
             "Sexta": "História Contemporânea I"
@@ -123,7 +123,7 @@
         "coordenacao": "Coordenador 11",
         "horarios": {
             "Segunda": " Estatística Básica",
-            "Terca": "Tópicos Especiais em Literatura I",
+            "Terça": "Tópicos Especiais em Literatura I",
             "Quarta": "Introdução Aos Estudos Linguísticos",
             "Quinta": " Produção Textual Acadêmica",
             "Sexta": "Literatura Espanhola I"
@@ -136,7 +136,7 @@
         "coordenacao": "Coordenador 12",
         "horarios": {
             "Segunda": "Ciência, Tecnologia e Sociedade",
-            "Terca": "Cálculo I",
+            "Terça": "Cálculo I",
             "Quarta": "Matemática Discreta",
             "Quinta": "Números e Funções Reais",
             "Sexta": "Tópicos de Matemática"
@@ -149,7 +149,7 @@
         "coordenacao": "Coordenador 13",
         "horarios": {
             "Segunda": "Processos Biológicos I",
-            "Terca": "Iniciação à Prática Científica",
+            "Terça": "Iniciação à Prática Científica",
             "Quarta": "Saúde Coletiva I",
             "Quinta": "Inglês Médico",
             "Sexta": "Introdução à Filosofia"
@@ -162,7 +162,7 @@
         "coordenacao": "Coordenador 14",
         "horarios": {
             "Segunda": "Gestão Escolar",
-            "Terca": "Arte, Educação e Infância",
+            "Terça": "Arte, Educação e Infância",
             "Quarta": "Introdução Ao Pensamento Social",
             "Quinta": "Corpo e Educação",
             "Sexta": "Gênero, Mídia e Educação"
