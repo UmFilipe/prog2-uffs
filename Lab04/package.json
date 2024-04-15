@@ -1,0 +1,14 @@
+{
+  "name": "lab04",
+  "version": "1.0.0",
+  "description": "CRUD simples de cursos e CCRs para aprendizado com Node e Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
