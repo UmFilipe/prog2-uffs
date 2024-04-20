@@ -1,0 +1,14 @@
+{
+  "name": "lab05",
+  "version": "1.0.0",
+  "description": "CRUD simples de cursos e CCRs+ mostrando landing page com Node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
