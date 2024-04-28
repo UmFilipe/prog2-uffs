@@ -1,0 +1,14 @@
+{
+  "name": "lab05",
+  "version": "1.0.0",
+  "description": "Implementação de MVC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
