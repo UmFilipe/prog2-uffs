@@ -23,6 +23,6 @@ const database = {
       nome: "Algoritmos e Programação",
     },
   ],
-};
+}
 
-module.exports = database;
+module.exports = database
