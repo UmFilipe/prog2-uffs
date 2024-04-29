@@ -1,4 +1,29 @@
 const viewController = {
+    carregarDadosCursos: function() {
+        return $.getJSON("/model/dadosCursos")
+            .then(function(dadosCursos) {
+                return dadosCursos;
+            })
+            .fail(function(error) {
+                console.error('Erro ao carregar dados dos cursos:', error);
+                throw error; 
+            });
+    },
+
+    alterarTema: function() {
+        const botaoAlterarTema = $("#alterarTema");
+
+        botaoAlterarTema.click(function() { 
+            $("body").toggleClass("dark-theme");
+
+            if (botaoAlterarTema.hasClass("btn-light")) {
+                botaoAlterarTema.removeClass("btn-light").addClass("btn-dark");
+            } else {
+                botaoAlterarTema.removeClass("btn-dark").addClass("btn-light");
+            }
+        });
+    },
+
     mostraInfoCurso: function(curso) {
         const divInfoCurso = $('#info-curso')
         divInfoCurso.empty()
