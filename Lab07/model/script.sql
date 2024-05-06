@@ -1,0 +1,12 @@
+CREATE TABLE cursos (
+	id INTEGER NOT NULL,
+	nome VARCHAR(100),
+	descricao VARCHAR(200),
+	PRIMARY KEY (id)
+);
+
+CREATE TABLE ccrs (
+	id INTEGER NOT NULL,
+	nome VARCHAR(100),
+	PRIMARY KEY (id)
+);
