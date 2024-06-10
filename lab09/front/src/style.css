@@ -1,0 +1,126 @@
+body {
+  font-family: Roboto, sans-serif;
+  background-color: #f0f0f0; 
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #28693F;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.header-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header img {
+  max-width: 100px;
+}
+
+#selecionar-curso {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+#dropdown-cursos {
+  width: 50%;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  border-radius: .25rem;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+}
+
+.dark-theme #dropdown-cursos {
+  background-color: #333;
+  border: 1px solid #585656;
+  color: #fff;
+}
+
+#cursos {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+#info-curso {
+  width: 66.67%;
+  margin: 20px 0 0 15px;
+}
+
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  padding: .75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+
+.table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+  background-color: #f8f9fa;
+}
+
+.dark-theme .table thead th {
+  background-color: #2b2a2a;
+  color: #fff;
+}
+
+.dark-theme .table td {
+  color: #fff;
+}
+
+button {
+  margin: 20px auto;
+  display: block;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.theme-button {
+  background-color: #f8f9fa;
+  color: #000;
+}
+
+.dark-theme .theme-button {
+  background-color: #343a40;
+  color: #fff;
+}
+
+#alerta {
+  position: fixed;
+  bottom: 10px; 
+  right: 10px;
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#alerta a {
+  color: #155724;
+}
+
+.dark-theme {
+  background-color: #333;
+  color: #fff;
+}
